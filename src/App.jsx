@@ -5,6 +5,11 @@ import Home from "./Components/home";
 import About from "./Components/about";
 import Services from "./Components/Services";
 import Contact from "./Components/Contact";
+
+
+
+
+
 function App() {
 
 const contacts = [
