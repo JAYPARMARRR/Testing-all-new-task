@@ -32,6 +32,7 @@ const Fezan2 = () => {
     ]
 
     const boxChange = (e,id) => {
+        
         if (ids.includes(id)) {
 
             setIds(ids.filter(item => item !== id));
